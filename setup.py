@@ -49,7 +49,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 
 setup(name='docassemble.lawschool.outline',
       version='0.0.0',
-      description=('Law School Outlines'),
+      description=('Law School Outline'),
       long_description=read("README.md"),
       long_description_content_type='text/markdown',
       author='Ari Chivukula',
